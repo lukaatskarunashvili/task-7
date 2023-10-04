@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;}
+    ul,
+ol {
+    list-style-type: none;
+  
+}
+
+a {
+    text-decoration: none;
+}
+.header{
+    display: flex;
+    align-items:center;
+    max-width: 1220px;
+    justify-content: center;
+    
+}
+.header .flex{
+    display: flex;
+    margin-left: 200px;
+    font-size: 14px;
+    color: black;
+}
+header li{
+    color: #000000;
+}
+.header .margin{
+    margin: 0 35px;
+}
+.header button{
+    height: 65px;
+    width: 184px;
+    background-color: #6B77E5;
+    color: #FFFFFF;
+    
+}
+.header .color{
+    color:#FFFFFF
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.main-1 .span{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+ .main-1 .work{
+    margin-top: 16px;
+}
+.main .logo{
+    display: flex;
+}
+.main-1 .Make-Appointment{
+    background-color: #F4F4F4;
+    height: 383px;
+    width: 386px;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+}
+.main-1 .Consultation{
+    background-color: #F4F4F4;
+    height: 383px;
+    width: 386px;
+    margin: 0 31px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.main-1 .enjoy{
+    background-color: #F4F4F4;
+    height: 383px;
+    width: 386px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-1 .block{
+    display: block;
+}
+.main-1 span{
+    display: block;
+}
+.main-1 section{
+    display: flex;
+
+    justify-content: center;
+    margin-top: 41px;
+}
+    
+.main-1 p{
+    margin-top: 16px;
+} 
+.main-1 .Testimonials{
+    display: flex;
+    justify-content: center;
+    margin-top: 37px;
+}
+.main-1 .margin-top{
+    margin-top: 10px;
+}
+.main-1 h2{
+    display: flex;
+    justify-content: center;
+}
+.main-2 .psitions{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.main-2{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.main-2 .play-button{
+    display: flex; 
+    justify-content: center;
+}
+.main-2 .play-button1{
+    display: flex; 
+    justify-content: center;
+    margin-top: 16px;
+}
+.main-2 .play-button2{
+    display: flex; 
+    justify-content: center;
+    margin-top: 21px;
+
+}
+.main-2 .play-button3{
+    display: flex; 
+    justify-content: center;
+    margin-top: 47px;
+
+}
+.main-3 .lectors{
+    display: flex;
+    justify-content: center;
+    margin-top: 42px;
+    position: relative;
+}
+.main-3 .our-team{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 130px;
+}
+.main-3 .david{
+    margin:0 31px ;
+}
+.main-3 .designer{
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 396px;
+    height: 114px;
+    width: 341px;
+}
+.main-3 .flex{
+    display: flex;
+    justify-content: center;
+}
+.main-3 h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+}
+.main-3 .flex-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
